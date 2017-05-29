@@ -1,3 +1,6 @@
 An extra line. No others!
 And a new line added via the command line interface.
-yeah!
+
+And now adding a line on github directly
+and another. let's see what happens.
+Also, I killed the 'yeah' on line 3. Not sure I'll miss it.
