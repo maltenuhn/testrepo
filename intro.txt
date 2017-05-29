@@ -1,3 +1,1 @@
-An extra line
-for fun
-is weird.
+An extra line. No others.
