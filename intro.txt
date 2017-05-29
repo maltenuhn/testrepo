@@ -1,7 +1,6 @@
-This is a file.
-There is also
-an extra line
+An extra line
 for fun
+is weird.
 Many ideas
 do not come easy at first
 but when they do
