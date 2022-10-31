@@ -13,7 +13,7 @@ export var storyboard = (
         left: 212,
         top: 128,
       }}
-      data-label='I REALLY AM EDITED!!!'
+      data-label='I ABSOLUTELY AM EDITED!!!'
     >
       <Playground style={{}} />
     </Scene>
